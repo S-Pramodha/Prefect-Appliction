@@ -1,0 +1,9 @@
+<!ELEMENT users (user+)>
+<!ELEMENT user (cid,cname,adnum,grade,dob,email,address)>
+<!ELEMENT cid (#PCDATA)>
+<!ELEMENT cname (#PCDATA)>
+<!ELEMENT adnum (#PCDATA)>
+<!ELEMENT grade (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT address (#PCDATA)>

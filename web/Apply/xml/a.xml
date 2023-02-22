@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<!DOCTYPE voters SYSTEM "a.dtd">
+<?xml-model href="a.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<voters>
+  <voter>
+    <vid>10</vid>
+    <vname>deshan</vname>
+    <email>des@uniromax.com</email>
+    <status>verified</status>
+    <nic>991480838v</nic>
+    <address>des</address>
+  </voter>
+  <voter>
+    <vid>11</vid>
+    <vname>naveen</vname>
+    <email>vdflszzkxkhoivi@uniromax.com</email>
+    <status>verified</status>
+    <nic>9977555</nic>
+    <address>Matara</address>
+  </voter>
+  <voter>
+    <vid>12</vid>
+    <vname>Naveen</vname>
+    <email>Naveen@gmail.com</email>
+    <status>verified</status>
+    <nic>991480838v</nic>
+    <address>Panadura</address>
+  </voter>
+  <voter>
+    <vid>13</vid>
+    <vname>Ravindu Deshan Weedagama </vname>
+    <email>ravidesh0527@gmail.com</email>
+    <status>verified</status>
+    <nic>991480838v</nic>
+    <address>Matara</address>
+  </voter>
+  <voter>
+    <vid>14</vid>
+    <vname>Ruchira</vname>
+    <email>ruchi@gmail.com</email>
+    <status>verified</status>
+    <nic>991480822v</nic>
+    <address>Galle</address>
+  </voter>
+  <voter>
+    <vid>15</vid>
+    <vname>heshan</vname>
+    <email>dflxspwluqo@uniromax.com</email>
+    <status>verified</status>
+    <nic>991480838v</nic>
+    <address>sadafa</address>
+  </voter>
+  <voter>
+    <vid>16</vid>
+    <vname>Ravindu Deshan Weedagama </vname>
+    <email>aaa@gmail.com</email>
+    <status>verified</status>
+    <nic>901480838v</nic>
+    <address>Akuressa</address>
+  </voter>
+  <voter>
+    <vid>17</vid>
+    <vname>Kavindu</vname>
+    <email>kavi@gmail.com</email>
+    <status>verified</status>
+    <nic>991480832v</nic>
+    <address>kavi</address>
+  </voter>
+  <voter>
+    <vid>18</vid>
+    <vname>Ruchira</vname>
+    <email>ruchira@gmail.com</email>
+    <status>verified</status>
+    <nic>991480813v</nic>
+    <address>galle</address>
+  </voter>
+</voters>

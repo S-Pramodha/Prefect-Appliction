@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <uname>nimmi</uname>
+    <email>nimmi@gmail.com</email>
+    <address>galle</address>
+    <grade>13</grade>
+    <dob>2000-10-22</dob>
+    <admision_no>2223232</admision_no>
+  </user>
+  <user>
+    <uname>sanchali</uname>
+    <email>amaya@gmail.com</email>
+    <address>Ambalangoda</address>
+    <grade>13</grade>
+    <dob>2000-02-04</dob>
+    <admision_no>2223232</admision_no>
+  </user>
+  <user>
+    <uname>Chamalka</uname>
+    <email>chama@gmail.com</email>
+    <address>gampaha</address>
+    <grade>13</grade>
+    <dob>2023-02-22</dob>
+    <admision_no>20003365</admision_no>
+  </user>
+</users>

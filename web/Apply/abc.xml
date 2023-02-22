@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <name>sanchali</name>
+    <admition_no>2223232</admition_no>
+    <grade>12</grade>
+    <dob>2000-04-29</dob>
+    <email>sanchalipramodha2000@gmail.com</email>
+    <address>dhakgfuisalfulfu</address>
+  </user>
+  <user>
+    <name>sanchali Pramodha</name>
+    <admition_no>22757</admition_no>
+    <grade>12</grade>
+    <dob>2000-04-29</dob>
+    <email>sanchalipramodha2000@gmail.com</email>
+    <address>Thalgasgoda,Ambalangoda</address>
+  </user>
+  <user>
+    <name>sanchali Pramodha</name>
+    <admition_no>22757</admition_no>
+    <grade>12</grade>
+    <dob>2000-04-29</dob>
+    <email>sanchalipramodha2000@gmail.com</email>
+    <address>Thalgasgoda,Ambalangoda</address>
+  </user>
+  <user>
+    <name>Bhagya Ramanayake</name>
+    <admition_no>9901</admition_no>
+    <grade>13</grade>
+    <dob>2000-02-15</dob>
+    <email>bhagyaramanayake@gmail.com</email>
+    <address>shanthi mawatha,katugastota</address>
+  </user>
+  <user>
+    <name/>
+    <admition_no/>
+    <grade/>
+    <dob/>
+    <email/>
+    <address/>
+  </user>
+  <user>
+    <name>jayasu</name>
+    <admition_no>258798</admition_no>
+    <grade>13</grade>
+    <dob>2000-02-15</dob>
+    <email>jayasu@gmail.com</email>
+    <address>kandy</address>
+  </user>
+</users>
